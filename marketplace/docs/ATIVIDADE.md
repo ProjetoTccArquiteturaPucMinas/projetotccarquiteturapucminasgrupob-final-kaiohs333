@@ -6,9 +6,10 @@ Este projeto faz parte de um experimento acadêmico para avaliar esforço de com
 Você recebeu a versão do sistema implementada com **arquitetura em camadas**.
 
 ## Sua tarefa
-1. Identificar a arquitetura usada no projeto.
+1. Identificar a arquitetura usada no projeto => Arquitetura em camadas com separação em domain, application, infrastructure e presentation. A camada de domínio não depende das demais sendo validado pelo ArchitectureTest.
+
 2. Justificar com base na estrutura do código.
-3. Identificar a classe que deve ser alterada
+3. Identificar a classe que deve ser alterada => classe: CalcularCarrinhoUseCase.java
 4. Implementar a feature de cálculo de descontos no carrinho.
 5. Realizar testes de ponta a ponta para validar a implementação.
 6. Executar os testes até que todos passem.
