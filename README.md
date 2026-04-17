@@ -1,6 +1,6 @@
 ﻿# Sistema de Cálculo de Descontos para Marketplace 
  
-## Seu Nome:
+## Seu Nome: Kaio Henrique Oliveira da Silveira Barbosa
 
 ## Visão Geral do Projeto
 
